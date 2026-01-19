@@ -6,7 +6,7 @@ Welcome to the **DSA with Java** repository! This project is a comprehensive col
 
 ## Features
 
--  To be solving 100+ handpicked DSA problems in Java
+-  To be solving 100+ handpicked DSA problems/concept in Java
 -  Organized topic-wise (Arrays, Strings, Linked Lists, Trees, Graphs, etc.)
 -  Clean, readable, and modular Java code
 -  In-line comments and explanations
